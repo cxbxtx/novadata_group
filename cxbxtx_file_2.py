@@ -1,4 +1,5 @@
+Bi
 #Конвертер температуры
-celsius = float(input("Enter temperature in Celsius: "))
-fahrenheit = celsius * 9/5 + 32
-print(f"{celsius}°C = {fahrenheit}°F")
+cs = float(input("Enter temperature in Celsius: "))
+fh = celsius * 9/5 + 32
+print(f"{fh}°F = {cs}°C")
